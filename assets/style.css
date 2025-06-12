@@ -51,6 +51,11 @@ display: flex;
 
 }
 
-.cartao_conteudo p {
-    color: var(--card-back-color)
+.cartao_conteudo_pergunta p {
+    color: var(--text-color);
+}
+
+.cartao_conteudo_resposta p{
+    color: var(--card-back-color);
+    font-weight: 700;
 }
