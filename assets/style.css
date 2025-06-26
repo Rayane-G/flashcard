@@ -29,6 +29,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 padding: 4rem;
+gap: 3rem;
 }
 
 .cartao {
@@ -74,7 +75,7 @@ padding: 4rem;
     height: 100%;
     width: 100%;
 }
-
+0
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
 }
